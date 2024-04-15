@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am interested in programming.<br>📚I am currently studying Systems Engineering.<br>🎯Goals: Work as a BackEnd or DevOps programmer</p>
+<p align="left">✨ - I am interested in programming.<br>📚 - I am currently studying Systems Engineering.<br>🎯 - Goals: Work as a BackEnd or DevOps programmer</p>
 
 ###
 
